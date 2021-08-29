@@ -1,0 +1,16 @@
+.bars {
+  width: 100%;
+  margin: 1px;
+  color: red;
+}
+
+.bars_space {
+  /* padding-top: 30px; */
+  margin-top: 10%;
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  width: 100%;
+  height: max-content;
+}
